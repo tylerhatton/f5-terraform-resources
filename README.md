@@ -6,21 +6,24 @@ A collection resources I found useful when learning to use Terraform to manage F
 
 ## Labs
 
-- [WWT F5 Terraform Automation Lab](https://www.wwt.com/lab/f5-terraform-automation)
-- [WWT Adaptive Application Services with Nginx](https://www.wwt.com/lab/f5-nginx-lab)
-- [WWT Immutable Infrastructure Lab](https://www.wwt.com/lab/immutable-infrastructure)
 - [HashiCorp Terraform Labs](https://play.instruqt.com/hashicorp/topics/terraform)
 - [Katacoda Deploy NGINX container using Terraform](https://katacoda.com/courses/terraform/deploy-nginx)
 
-## Documentation
+## Terraform Documentation
 
 - [Terraform Getting Started Guide](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 - [F5 BIG-IP Terraform provider documentation](https://registry.terraform.io/providers/F5Networks/bigip/latest/docs)
 - [HashiCorp Learn - Apply Terraform in popular cloud platforms](https://learn.hashicorp.com/terraform)
 - [Integrating F5 BIG-IP with Consul for pool member auto-discovery](https://learn.hashicorp.com/tutorials/consul/load-balancing-f5?in=consul/integrations)
 - [Integrating Terraform with Github Actions](https://learn.hashicorp.com/tutorials/terraform/github-actions)
-- [Managing F5 Object with Consul and Terraform Sync](https://www.consul.io/docs/nia/installation/install)
+- [Managing F5 Objects with Consul and Terraform Sync](https://www.consul.io/docs/nia/installation/install)
 
+## F5 Automation Toolchain & iControl LX Plugins
+- [F5 Application Services 3](https://clouddocs.f5.com/products/extensions/f5-appsvcs-extension/latest/)
+- [F5 Declarative Onboarding](https://clouddocs.f5.com/products/extensions/f5-declarative-onboarding/latest/)
+- [F5 Telemetry Streaming](https://clouddocs.f5.com/products/extensions/f5-telemetry-streaming/latest/)
+- [F5 Application Services Templates](https://clouddocs.f5.com/products/extensions/f5-appsvcs-templates/latest/)
+- [F5 Cloud Failover](https://clouddocs.f5.com/products/extensions/f5-cloud-failover/latest/)
 
 ## Demos and Videos
 
@@ -29,7 +32,7 @@ A collection resources I found useful when learning to use Terraform to manage F
 
 ## Modules of Interest
 
-- [Official F5 BIG-IP module for AWS](https://registry.terraform.io/modules/f5devcentral/bigip/aws/latest)
-- [Official F5 BIG-IP module for Azure](https://github.com/f5devcentral/terraform-azure-bigip-module)
-- [Unofficial F5 BIG-IP module for GCP](https://registry.terraform.io/modules/memes/f5-bigip/google/latest)
+- [F5 BIG-IP module for AWS](https://registry.terraform.io/modules/f5devcentral/bigip/aws/latest)
+- [F5 BIG-IP module for Azure](https://github.com/f5devcentral/terraform-azure-bigip-module)
+- [F5 BIG-IP module for GCP](https://github.com/f5devcentral/terraform-gcp-bigip-module)
 - [F5 & Azure Secure Cloud Computing Architecture](https://github.com/f5devcentral/f5-azure-saca)
